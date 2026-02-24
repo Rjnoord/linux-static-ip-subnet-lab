@@ -55,6 +55,7 @@ This output confirms successful manual configuration of multiple static IP addre
 Attempting to ping the broadcast address verifies correct subnet boundary configuration.
 ![Broadcast_Test](Broadcast_test.png)
 
+
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
 Targeted host discovery within the 192.168.64.16/28 subnet confirms proper segmentation and scoped visibility.
