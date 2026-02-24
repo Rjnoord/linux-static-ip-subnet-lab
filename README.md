@@ -59,7 +59,7 @@ Attempting to ping the broadcast address verifies correct subnet boundary config
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
 Targeted host discovery within the 192.168.64.16/28 subnet confirms proper segmentation and scoped visibility.
-![sudo-nmap-scan](Sudo-tcpdump_enp0s1.png)
+![sudo-tcpdump-enp0s1](Sudo-tcpdump_enp0s1.png)
 
 
 ### 4️⃣ Routing Table (Longest Prefix Match)
