@@ -43,25 +43,10 @@ sudo ip addr add 192.168.64.20/28 dev enp0s1
 ---
 
 ## 📸 Screenshots
-### 2️⃣ Broadcast Address Validation
-![Broadcast-te
-
-### 3️⃣ Subnet-Scoped Nmap Scan
-
-Targeted host discovery within the 192.168.64.16/28 subnet confirms proper segmentation and scoped visibility.
-![sudo-tcpdump-enp0s1](Sudo-tcpdump_enp0s1.png)
-
-
-### 4️⃣ Routing Table (Longest Prefix Match)
-
-The routing table demonstrates overlapping routes (/24 and /28), where Linux selects the most specific route using longest prefix match logic.
-
+![broadcast-test](broadcast-test.png)
+![sudo-tcpdump-enp0s1](sudo-tcpdump_enp0s1.png)
 ![Routing Table](screenshots/routing-table.png)
 
-
-### 5️⃣ DNS Port Verification
-
-Port 53 (DNS) scan confirms active DNS service and validates network communication to the gateway.
 
 ![dns-resolution-verification.png](dns-resolution-verification.png)
 
