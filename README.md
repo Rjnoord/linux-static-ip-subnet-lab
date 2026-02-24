@@ -72,6 +72,5 @@ The routing table demonstrates overlapping routes (/24 and /28), where Linux sel
 
 Port 53 (DNS) scan confirms active DNS service and validates network communication to the gateway.
 
-![DNS Port Scan](screenshots/dns-port-scan-and-static-ip-config.png)
+![dns-resolution-verification.png](dns-resolution-verification.png)
 
----
