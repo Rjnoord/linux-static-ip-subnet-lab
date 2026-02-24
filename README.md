@@ -44,7 +44,7 @@ sudo ip addr add 192.168.64.20/28 dev enp0s1
 
 ## 📸 Screenshots
 ### 2️⃣ Broadcast Address Validation
-![Broadcast-test](Broadcast_test.png)
+![Broadcast-te
 
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
