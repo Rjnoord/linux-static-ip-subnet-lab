@@ -48,7 +48,7 @@ sudo ip addr add 192.168.64.20/28 dev enp0s1
 
 This output confirms successful manual configuration of multiple static IP addresses within the /28 subnet.
 
-![Static IP Assignment](screenshots/static-ip-assignment.png)
+![Static IP Assignment](static-ip-assignment.png)
 
 ### 2️⃣ Broadcast Address Validation
 
