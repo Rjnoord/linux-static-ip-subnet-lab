@@ -50,12 +50,10 @@ This output confirms successful manual configuration of multiple static IP addre
 
 ![Static IP Assignment](screenshots/static-ip-assignment.png)
 
----
-
 ### 2️⃣ Broadcast Address Validation
 
 Attempting to ping the broadcast address verifies correct subnet boundary configuration.
-![Broadcast Test](Broadcast_test.png)
+![Broadcast_Test](Broadcast_test.png)
 
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
@@ -69,7 +67,6 @@ The routing table demonstrates overlapping routes (/24 and /28), where Linux sel
 
 ![Routing Table](screenshots/routing-table.png)
 
----
 
 ### 5️⃣ DNS Port Verification
 
