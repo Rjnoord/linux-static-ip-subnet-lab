@@ -55,9 +55,7 @@ This output confirms successful manual configuration of multiple static IP addre
 ### 2️⃣ Broadcast Address Validation
 
 Attempting to ping the broadcast address verifies correct subnet boundary configuration.
-
-![Broadcast Test]()
-
+![Broadcast Test](Broadcast_test.png)
 
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
