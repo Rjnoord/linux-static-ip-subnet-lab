@@ -44,10 +44,7 @@ sudo ip addr add 192.168.64.20/28 dev enp0s1
 
 ## 📸 Screenshots
 ### 2️⃣ Broadcast Address Validation
-
-Attempting to ping the broadcast address verifies correct subnet boundary configuration.
-![Broadcast_Test](Broadcast_test. png)
-
+![Broadcast-test](Broadcast_test.png)
 
 ### 3️⃣ Subnet-Scoped Nmap Scan
 
