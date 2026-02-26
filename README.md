@@ -43,10 +43,8 @@ sudo ip addr add 192.168.64.20/28 dev enp0s1
 ---
 
 ## 📸 Screenshots
-![broadcast-test](broadcast-test.png)
+![broadcast-test.png)(broadcast-test.png) 
 ![sudo-tcpdump-enp0s1](sudo-tcpdump_enp0s1.png)
-![Routing Table](screenshots/routing-table.png)
-
-
+![Routing Table](routing-table.png)
 ![dns-resolution-verification.png](dns-resolution-verification.png)
 
